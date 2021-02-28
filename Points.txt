@@ -1,0 +1,6 @@
+
+P.add(new Point( 3,9 ));
+P.add(new Point( 2,7 ));
+P.add(new Point( 1,7 ));
+P.add(new Point( 0,7 ));
+P.add(new Point( 1,7 ));
